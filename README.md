@@ -12,7 +12,7 @@ St. Louis, MO · [joewilson.ai](https://joewilson.ai) · [LinkedIn](https://link
 | [SwordFinder](https://swordfinder.com) | The ugliest strikeout swings in baseball, ranked daily from MLB Statcast data. No database, no server. | [repo](https://github.com/joewilsonai/SwordFinder) |
 | [Open Feedback Factory](https://openfeedbackfactory.com) | An agent-based feedback-to-feature platform. An in-app widget ([npm SDK](https://www.npmjs.com/package/@open-feedback-factory/sdk)) captures feedback, AI clusters it by demand, approved requests go to guarded coding agents with policy and cost controls, and users track each request from submitted to shipped. | [repo](https://github.com/joewilsonai/open-feedback-factory) |
 | [CanvaKilla](https://canvakilla.com) | The banner maker that knows where every platform crops. | [repo](https://github.com/joewilsonai/canvakilla) |
-| [Teacher Inquiry](https://teacher-inquiry.vercel.app) | A teacher describes a classroom issue and AI sorts it into a research-backed framework. Built with an education partner. | [repo](https://github.com/joewilsonai/teacher-inquiry) |
+| [Teacher Inquiry](https://github.com/joewilsonai/teacher-inquiry) | A teacher describes a classroom issue and AI sorts it into a research-backed framework. Built with an education partner. | [repo](https://github.com/joewilsonai/teacher-inquiry) |
 | [The Booth](https://thebooth.fm) | An AI-hosted podcast about your own fantasy league. | |
 
 ## Tools you can install
